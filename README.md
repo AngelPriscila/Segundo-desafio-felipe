@@ -1,10 +1,10 @@
 # Segundo-desafio-felipe
  
- Segundo desafio do professor Felipe da plataforma DIO -  Calculadora de Partidas Rankeadas
+ Segundo desafio do professor Felipe da plataforma DIO -  Calculadora de Partidas Ranqueadas
 
  Desafio realizado com o codigo "IF/ELSE IF" em linguagem JS
 
-# 2️⃣ Calculadora de partidas Rankeadas
+# 2️⃣ Calculadora de partidas Ranqueadas
 **O Que deve ser utilizado**
 
 - Variáveis
